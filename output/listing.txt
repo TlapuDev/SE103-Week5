@@ -1,0 +1,5 @@
+total 5
+drwxr-xr-x 1 tlapu 197609   0 Oct 16 18:01 ./
+drwxr-xr-x 1 tlapu 197609   0 Oct 16 17:47 ../
+-rw-r--r-- 1 tlapu 197609   0 Oct 16 17:50 .gitkeep
+-rw-r--r-- 1 tlapu 197609 206 Oct 16 18:03 journal.txt
