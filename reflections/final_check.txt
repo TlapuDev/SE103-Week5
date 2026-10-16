@@ -1,0 +1,7 @@
+Student Name: Phemelo Tlapu
+GitHub Username: TlapuDev
+Repository: SE103-Week5
+Repository URL: https://github.com/TlapuDev/SE103-Week5
+All required files are on main: Yes
+One thing I would improve next time:
+Next time, I would check my filenames and folder structure against the assignment instructions earlier. I would also verify each important step before committing and pushing my work. This would help me catch mistakes sooner and make my submissions more reliable.
