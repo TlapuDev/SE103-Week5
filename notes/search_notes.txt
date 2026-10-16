@@ -1,0 +1,13 @@
+Student Name: Phemelo Tlapu
+
+What grep helped me do:
+grep helped me search for specific words in a file. I used it to find the line containing the word error in my journal and save the result.
+
+What find helped me do:
+find helped me search for files by their names. I used it to locate all the .txt files inside the shell_practice folder and save their paths.
+
+What the pipe helped me do:
+The pipe symbol (|) sent the output of one command to another command. I used ls with grep to find text filenames and save the matching results.
+
+Difference between > and >>:
+The > symbol writes output to a file and replaces its existing contents. The >> symbol appends new output to the end of a file without replacing the existing contents.
