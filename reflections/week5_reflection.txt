@@ -1,0 +1,13 @@
+Student Name: Phemelo Tlapu
+
+What I practiced in the shell:
+I practiced creating files with touch and listing files with ls. I used output redirection with > to save command results into files. I practiced grep to search for words, find to locate files, and pipes to pass command output between commands. I also used wildcards such as data*.txt to select matching files. Before copying the matching files, I listed them to check that I had selected the correct files.
+
+How GitHub changed my submission habits:
+Using Git and GitHub taught me to save my work in clear, organized steps. I learned to stage the files I wanted to include and commit them with the exact message required by the task. I also learned to push my commits so that my work is available on GitHub. Checking the repository helps me confirm that the expected files are present. These habits make it easier to track my progress and review my work.
+
+One mistake I made and how I fixed it:
+At first, I needed to learn the difference between a filename and a command in the terminal. I learned that typing a filename by itself does not open or display it. I used commands such as ls to list files and cat to read text files. By checking the output after running commands, I could confirm whether each step worked as expected.
+
+Why the repository name had to be exactly SE103-Week5:
+The repository name had to match SE103-Week5 because the assignment checks for the expected repository and file locations. Using the exact name helps the automated checks find my work. It also keeps my submission consistent with the course instructions.
